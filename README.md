@@ -36,7 +36,7 @@ klinik-gigi/
         └── avatar1-3.jpg
 ```
 
-## 🎨 Kustomisasi
+## Kustomisasi
 
 ### Mengganti Warna
 Ubah konfigurasi Tailwind di bagian `<script>` di `index.html`:
